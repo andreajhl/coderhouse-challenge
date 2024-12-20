@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
+import PageMain from './components/pageMain';
 
 function App() {
   return (
-    <div className="App">
-     <h1>Hello CAMPEON DEL MUNDO</h1>
-    </div>
+    <PageMain />
   );
 }
 
